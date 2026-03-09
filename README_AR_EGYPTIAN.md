@@ -556,3 +556,320 @@
 | [CoinRanking](https://developers.coinranking.com/api/documentation) | بيانات عملات رقمية مباشرة | `apiKey` | نعم | مش معروف |
 
 **[⬆ ارجع للفهرس](#index)**
+
+---
+
+### 🎮 ألعاب (Games)
+
+| API | الوصف | المصادقة | HTTPS | CORS |
+|:---|:---|:---|:---|:---|
+| [Chess.com](https://www.chess.com/news/view/published-data-api) | العب شطرنج اونلاين وشوف المباريات واللاعبين | لا | نعم | نعم |
+| [Clash of Clans](https://developer.clashofclans.com/) | بيانات لعبة كلاش أوف كلانز | `apiKey` | نعم | مش معروف |
+| [RAWG.io](https://rawg.io/apidocs) | قاعدة بيانات ضخمة للألعاب ومعلوماتها | `apiKey` | نعم | نعم |
+| [Steam Web API](https://steamcommunity.com/dev) | بيانات ألعاب ستيم واللاعبين | `apiKey` | نعم | مش معروف |
+| [Xbox Live](https://docs.microsoft.com/en-us/gaming/xbox-live/) | بيانات Xbox Live واللاعبين | `OAuth` | نعم | مش معروف |
+
+**[⬆ ارجع للفهرس](#index)**
+
+---
+
+### 🌐 خرائط وعنوانين (Geospatial) - تكملَة
+
+| API | الوصف | المصادقة | HTTPS | CORS |
+|:---|:---|:---|:---|:---|
+| [Google Maps](https://developers.google.com/maps/documentation/javascript/tutorial) | خرائط جوجل وخدمات العنوانين | `apiKey` | نعم | نعم |
+| [Mapbox](https://docs.mapbox.com/api/) | خرائط مخصصة وخدمات تحديد المواقع | `apiKey` | نعم | نعم |
+| [OpenStreetMap](https://wiki.openstreetmap.org/wiki/API_v0.6) | خرائط مفتوحة المصدر من المجتمع | لا | نعم | نعم |
+| [Here Maps](https://developer.here.com/documentation) | خرائط وخدمات ملاحة من HERE | `apiKey` | نعم | نعم |
+| [TomTom](https://developer.tomtom.com/) | خرائط وخدمات مرور وتنقل | `apiKey` | نعم | نعم |
+
+**[⬆ ارجع للفهرس](#index)**
+
+---
+
+### 👤 حكومة (Government) - تكملَة
+
+| API | الوصف | المصادقة | HTTPS | CORS |
+|:---|:---|:---|:---|:---|
+| [data.gov](https://api.data.gov/) | بوابة البيانات المفتوحة الأمريكية | `apiKey` | نعم | نعم |
+| [EU Open Data Portal](https://data.europa.eu/euodp/en/data/api) | بيانات مفتوحة من الاتحاد الأوروبي | لا | نعم | نعم |
+| [UK Government Data](https://data.gov.uk/) | بيانات حكومية بريطانية مفتوحة | لا | نعم | نعم |
+| [Census.gov](https://www.census.gov/data/developers.html) | بيانات التعداد السكاني الأمريكي | `apiKey` | نعم | نعم |
+| [NASA API](https://api.nasa.gov/) | بيانات وصور من وكالة ناسا | `apiKey` | نعم | نعم |
+
+**[⬆ ارجع للفهرس](#index)**
+
+---
+
+### 🏥 صحة (Health)
+
+| API | الوصف | المصادقة | HTTPS | CORS |
+|:---|:---|:---|:---|:---|
+| [Fitness Calculator](https://fitness-calculator.api-docs.io/) | حاسبة اللياقة البدنية والسعرات | `apiKey` | نعم | نعم |
+| [Human API](https://humanapi.co/) | بيانات صحية من أجهزة وأ التطبيقات | `OAuth` | نعم | نعم |
+| [Makeup API](https://makeup-api.herokuapp.com/) | معلومات منتجات المكياج | لا | نعم | نعم |
+| [OpenFDA](https://open.fda.gov/api/) | بيانات أدوية وأغذية من FDA | لا | نعم | نعم |
+| [Pharmasecure](https://pharmasecure.com/) | تتبع الأدوية والتحقق منها | `apiKey` | نعم | مش معروف |
+
+**[⬆ ارجع للفهرس](#index)**
+
+---
+
+### 💼 وظائف (Jobs)
+
+| API | الوصف | المصادقة | HTTPS | CORS |
+|:---|:---|:---|:---|:---|
+| [Adzuna](https://developer.adzuna.com/overview) | محرك بحث عن وظائف | `apiKey` | نعم | نعم |
+| [CareerBuilder](https://api.careerbuilder.com/) | موقع توظيف ووظائف | `apiKey` | نعم | مش معروف |
+| [DevITJobs](https://devitjobs.com/) | وظائف في مجال التطوير والتقنية | لا | نعم | نعم |
+| [Glassdoor](https://www.glassdoor.com/employer/api.htm) | وظائف وتقييمات شركات | `apiKey` | نعم | مش معروف |
+| [Indeed](https://publisher.indeed.com/services/htmlsearch) | محرك بحث عن وظائف | `apiKey` | نعم | مش معروف |
+
+**[⬆ ارجع للفهرس](#index)**
+
+---
+
+### 🤖 ذكاء اصطناعي (Machine Learning) - تكملَة
+
+| API | الوصف | المصادقة | HTTPS | CORS |
+|:---|:---|:---|:---|:---|
+| [Dialogflow](https://cloud.google.com/dialogflow/docs) | بناء chatbots ومساعدين ذكيين | `OAuth` | نعم | نعم |
+| [IBM Watson](https://cloud.ibm.com/apidocs) | خدمات ذكاء اصطناعي من IBM | `apiKey` | نعم | نعم |
+| [Microsoft Azure Cognitive Services](https://azure.microsoft.com/en-us/services/cognitive-services/) | رؤية كمبيوتر ومعالجة لغة طبيعية | `apiKey` | نعم | نعم |
+| [Clarifai](https://docs.clarifai.com/api-guide/api-overview) | رؤية كمبيوتر وتحليل صور | `apiKey` | نعم | نعم |
+| [Hugging Face](https://huggingface.co/docs/api-inference/index) | نماذج ذكاء اصطناعي جاهزة للاستخدام | `apiKey` | نعم | نعم |
+
+**[⬆ ارجع للفهرس](#index)**
+
+---
+
+### 🎵 موسيقى (Music) - تكملَة
+
+| API | الوصف | المصادقة | HTTPS | CORS |
+|:---|:---|:---|:---|:---|
+| [Last.fm](https://www.last.fm/api) | بيانات موسيقية وإحصائيات استماع | `apiKey` | نعم | نعم |
+| [MusicBrainz](https://musicbrainz.org/doc/Development/XML_Web_Service/Version_2) | قاعدة بيانات موسيقية مفتوحة | لا | نعم | نعم |
+| [SoundCloud](https://developers.soundcloud.com/docs/api/guide) | مشاركة واستماع للموسيقى | `OAuth` | نعم | نعم |
+| [Shazam](https://rapidapi.com/apidojo/api/shazam/) | التعرف على الأغاني | `apiKey` | نعم | نعم |
+| [Genius](https://docs.genius.com/) | كلمات أغاني ومعلومات عنها | `OAuth` | نعم | نعم |
+
+**[⬆ ارجع للفهرس](#index)**
+
+---
+
+### 📰 أخبار (News) - تكملَة
+
+| API | الوصف | المصادقة | HTTPS | CORS |
+|:---|:---|:---|:---|:---|
+| [NewsAPI](https://newsapi.org/) | أخبار من مصادر متعددة حول العالم | `apiKey` | نعم | نعم |
+| [The New York Times](https://developer.nytimes.com/) | أخبار من صحيفة نيويورك تايمز | `apiKey` | نعم | نعم |
+| [The Guardian](https://open-platform.theguardian.com/) | أخبار من صحيفة الجارديان | `apiKey` | نعم | نعم |
+| [Reuters News API](https://tr.reuters.com/resources/?site=apigility) | أخبار رويترز العالمية | `apiKey` | نعم | مش معروف |
+| [Associated Press](https://developer.ap.org/) | أخبار وكالة أسوشيتد برس | `apiKey` | نعم | مش معروف |
+
+**[⬆ ارجع للفهرس](#index)**
+
+---
+
+### 📷 تصوير (Photography) - تكملَة
+
+| API | الوصف | المصادقة | HTTPS | CORS |
+|:---|:---|:---|:---|:---|
+| [Flickr](https://www.flickr.com/services/api/) | مشاركة صور وصور فوتوغرافية | `OAuth` | نعم | نعم |
+| [Instagram Graph API](https://developers.facebook.com/docs/instagram-api) | صور ومنشورات انستجرام | `OAuth` | نعم | نعم |
+| [Pinterest](https://developers.pinterest.com/) | لوحات صور وأفكار | `OAuth` | نعم | نعم |
+| [Unsplash](https://unsplash.com/documentation) | صور عالية الجودة مجاناً | `OAuth` | نعم | نعم |
+| [Pexels](https://www.pexels.com/api/) | صور وفيديوهات مجانية | `apiKey` | نعم | نعم |
+
+**[⬆ ارجع للفهرس](#index)**
+
+---
+
+### ⚽ رياضة (Sports)
+
+| API | الوصف | المصادقة | HTTPS | CORS |
+|:---|:---|:---|:---|:---|
+| [ESPN](https://gist.github.com/mzgreen/3714a9e3f1f3ab86e6e4d7a7a6ece2b0) | أخبار ونتائج رياضية من ESPN | `apiKey` | نعم | مش معروف |
+| [Football-Data.org](https://www.football-data.org/documentation/quickstart/) | بيانات كرة قدم الأوروبية | `apiKey` | نعم | نعم |
+| [NBA Stats](https://github.com/seemethere/nba_py) | إحصائيات دوري كرة السلة الأمريكي | لا | نعم | نعم |
+| [NFL API](https://nflapi.readthedocs.io/en/latest/) | بيانات دوري كرة القدم الأمريكية | لا | نعم | نعم |
+| [Olympics](https://olympics.com/en/developer-zone) | بيانات الألعاب الأولمبية | `apiKey` | نعم | نعم |
+
+**[⬆ ارجع للفهرس](#index)**
+
+
+---
+
+### 🛡️ حماية من الفيروسات (Anti-Malware)
+| الوصف | الرابط |
+| :--- | :--- |
+| **VirusTotal** - افحص أي ملف أو لينك قبل ما تفتحه وتتأكد إنه آمن من الفيروسات. | [الرابط](https://virustotal.com) |
+| **MalwareBazaar** - قاعدة بيانات ضخمة فيها عينات من البرامج الخبيثة عشان الباحثين والمهتمين بالأمان. | [الرابط](https://bazaar.abuse.ch/) |
+
+---
+
+### 🎨 فن وتصميم (Art & Design)
+| الوصف | الرابط |
+| :--- | :--- |
+| **Dribbble** - مجتمع للمصممين يعرضوا فيه شغلهم وتلاقي إلهام لمشاريعك. | [الرابط](https://dribbble.com) |
+| **Behance** - منصة عرض أعمال للمبدعين في كل مجالات التصميم والفن. | [الرابط](https://www.behance.net/) |
+| **Noun Project** - آلاف الأيقونات البسيطة اللي تقدر تستخدمها في تصميماتك مجاناً أو بفلوس بسيطة. | [الرابط](https://thenounproject.com/) |
+
+---
+
+### 🔐 تسجيل دخول وأمان (Authentication)
+| الوصف | الرابط |
+| :--- | :--- |
+| **Auth0** - خدمة جاهزة تضيف بيها نظام تسجيل دخول وحماية لحسابات المستخدمين في تطبيقك من غير وجع دماغ. | [الرابط](https://auth0.com) |
+| **Firebase Auth** - نظام مصادقة قوي من جوجل بيدعم طرق كتير زي الإيميل، جوجل، فيسبوك، وغيرها. | [الرابط](https://firebase.google.com/docs/auth) |
+| **Okta** - حل أمني للشركات الكبيرة عشان تدير دخول الموظفين للتطبيقات المختلفة بأمان. | [الرابط](https://developer.okta.com/) |
+
+---
+
+### ⛓️ بلوك تشين (Blockchain)
+| الوصف | الرابط |
+| :--- | :--- |
+| **Etherscan** - اتبع أي عملية على شبكة إيثيريوم وشوف تفاصيل المحافظ والعقود الذكية. | [الرابط](https://etherscan.io) |
+| **Blockchain.com** - معلومات حية عن سوق البيتكوين والعملات الرقمية وبيانات الشبكة. | [الرابط](https://www.blockchain.com/explorer) |
+| **The Graph** - أداة بتسهل عليك جلب البيانات من شبكات البلوك تشين بسرعة وسهولة. | [الرابط](https://thegraph.com/) |
+
+---
+
+### 💼 أعمال وشركات (Business)
+| الوصف | الرابط |
+| :--- | :--- |
+| **Clearbit** - معلومات تفصيلية عن الشركات والعملاء عشان تساعد فريق المبيعات والتسويق بتاعك. | [الرابط](https://clearbit.com/) |
+| **Crunchbase** - قاعدة بيانات ضخمة فيها معلومات عن الشركات الناشئة والاستثمارات والشخصيات المهمة في عالم البيزنس. | [الرابط](https:// crunchbase.com/) |
+
+---
+
+### 📅 تقويم وجدولة (Calendar)
+| الوصف | الرابط |
+| :--- | :--- |
+| **Google Calendar API** - اربط تطبيقك بتقويم جوجل عشان تضيف مواعيد وتنظم جدولك أوتوماتيكياً. | [الرابط](https://developers.google.com/calendar) |
+| **Calendarific** - اعرف أيام العطلات الرسمية في أي دولة في العالم بسهولة. | [الرابط](https://calendarific.com/) |
+
+---
+
+### ☁️ تخزين سحابي (Cloud Storage)
+| الوصف | الرابط |
+| :--- | :--- |
+| **Dropbox API** - خزن الملفات وافتحها من أي مكان وربطها بتطبيقك بسهولة. | [الرابط](https://www.dropbox.com/developers) |
+| **Google Drive API** - نفس الحاجة بس مع جوجل درايف، قدرت رفع وتنزيل ومشاركة الملفات. | [الرابط](https://developers.google.com/drive) |
+| **AWS S3** - خدمة التخزين السحابي من أمازون، الأقوى والأشهر للمشاريع الكبيرة. | [الرابط](https://aws.amazon.com/s3/) |
+
+---
+
+### 🧪 تكامل مستمر (Continuous Integration)
+| الوصف | الرابط |
+| :--- | :--- |
+| **GitHub Actions** - أتمتة الشغل بتاعك، يعني لما ترفع كود جديد، يختبر نفسه ويرفعه للسيرفر أوتوماتيكياً. | [الرابط](https://docs.github.com/en/actions) |
+| **CircleCI** - أداة مساعدة تضيع وقتك في الاختبارات اليدوية وتجعل دورة حياة التطوير أسرع. | [الرابط](https://circleci.com/) |
+
+---
+
+### 💰 عملات رقمية (Cryptocurrency)
+| الوصف | الرابط |
+| :--- | :--- |
+| **CoinGecko** - أسعار حية لكل العملات الرقمية، رسوم بيانية، ومعلومات السوق. (مجاني وممتاز). | [الرابط](https://www.coingecko.com/api) |
+| **CoinMarketCap** - الأشهر في مجال الكريبتو، أسعار وترتيب للعملات. | [الرابط](https://coinmarketcap.com/api/) |
+| **CryptoCompare** - بيانات تاريخية وأسعار لحظية ومقارنات بين العملات. | [الرابط](https://www.cryptocompare.com/api/) |
+
+---
+
+### 💱 صرف عملات (Currency Exchange)
+| الوصف | الرابط |
+| :--- | :--- |
+| **ExchangeRate-API** - اعرف سعر الصرف بين أي عملتين في العالم لحظة بلحظة. | [الرابط](https://www.exchangerate-api.com/) |
+| **Fixer.io** - خدمة مشهورة لأسعار الصرف والعملات الأجنبية. | [الرابط](https://fixer.io/) |
+| **Open Exchange Rates** - بيانات دقيقة لأسعار العملات عشان تطبيقات التجارة الإلكترونية والسفر. | [الرابط](https://openexchangerates.org/) |
+
+---
+
+### ✔️ تحقق من بيانات (Data Validation)
+| الوصف | الرابط |
+| :--- | :--- |
+| **Kickbox** - تأكد إن الإيميلات اللي جمعتها صحيحة وفعلية قبل ما ترسل أي حاجة. | [الرابط](https://kickbox.io/) |
+| **Numverify** - تأكد من أرقام التليفونات الدولية واعرف الدولة والشبكة بتاعتها. | [الرابط](https://numverify.com/) |
+
+---
+
+### 👨‍💻 تطوير وبرمجة (Development)
+| الوصف | الرابط |
+| :--- | :--- |
+| **GitHub API** - تحكم فيrepositories بتاعتك، الشيفرة، والمشاكل (Issues) برمجياً. | [الرابط](https://docs.github.com/en/rest) |
+| **GitLab API** - نفس الغرض بس لمنصات GitLab. | [الرابط](https://docs.gitlab.com/ee/api/) |
+| **StackOverflow API** - اسحب الأسئلة والإجابات من ستاك أوفرфлоу عشان تعرضها في موقعك. | [الرابط](https://api.stackexchange.com/) |
+| **npm Registry** - لو بتعمل أداة خاصة بـ Node.js، تقدر تجيب معلومات عن الباكجات الموجودة. | [الرابط](https://www.npmjs.com/) |
+
+---
+
+### 📖 قواميس ولغات (Dictionaries)
+| الوصف | الرابط |
+| :--- | :--- |
+| **Free Dictionary API** - قاموس مجاني بيجيب تعريفات الكلمات ونطقها بالإنجليزي. | [الرابط](https://dictionaryapi.dev/) |
+| **Merriam-Webster** - قاموس ميريام ويبستر الشهير، فيه تعريفات ومرادفات. | [الرابط](https://dictionaryapi.com/) |
+
+---
+
+### 📄 مستندات وإنتاجية (Documents & Productivity)
+| الوصف | الرابط |
+| :--- | :--- |
+| **DocuSign** - وقع العقود والمستندات إلكترونياً بشكل قانوني ومعتمد. | [الرابط](https://developers.docusign.com/) |
+| **Notion API** - اربط تطبيقك بـ Notion عشان تقرأ وتكتب في صفحاتك وقواعد بياناتك. | [الرابط](https://developers.notion.com/) |
+| **Trello API** - إدارة المهام والمشاريع من خلال لوحات تريللو. | [الرابط](https://developer.atlassian.com/cloud/trello/) |
+
+---
+
+### 📧 إيميل وبريد (Email)
+| الوصف | الرابط |
+| :--- | :--- |
+| **SendGrid** - أرسل إيميلات كثيرة (زي إشعارات الموقع) بسهولة وبدون ما توصل للـ Spam. | [الرابط](https://sendgrid.com/) |
+| **Mailgun** - خدمة قوية لإرسال واستقبال الإيميلات للمطورين. | [الرابط](https://www.mailgun.com/) |
+| **Mandrill** - خدمة إرسال إيميلات من Mailchimp، ممتازة للإيميلات التسويقية. | [الرابط](https://mandrill.com/) |
+
+---
+
+### 🎉 ترفيه وتسليه (Entertainment)
+| الوصف | الرابط |
+| :--- | :--- |
+| **Joke API** - اضحك شوية، جيب نكت عشوائية باللغة الإنجليزية. | [الرابط](https://v2.jokeapi.dev/) |
+| **Chuck Norris IO** - نكت خاصة بتشانك نوريز، كلاسيك ومضحك. | [الرابط](https://www.icndb.com/) |
+| **TMDB** - قاعدة بيانات ضخمة للأفلام والمسلسلات، صور، معلومات، وتقييمات. | [الرابط](https://www.themoviedb.org/documentation/api) |
+
+---
+
+### 🌍 بيئة وطبيعة (Environment)
+| الوصف | الرابط |
+| :--- | :--- |
+| **OpenWeatherMap** - (مذكور في الطقس) لكن فيه بيانات كمان عن التلوث والجودة الهوائية. | [الرابط](https://openweathermap.org/api) |
+| **Carbon Interface** - احسب بصمة الكربون لأي نشاط (زي رحلة طيران أو شحن بضاعة). | [الرابط](https://www.carboninterface.com/) |
+
+---
+
+### 📅 أحداث ومناسبات (Events)
+| الوصف | الرابط |
+| :--- | :--- |
+| **Eventbrite API** - دور على أحداث ومؤتمرات قريبة منك واشتري تذاكر. | [الرابط](https://www.eventbrite.com/platform/api/) |
+| **Ticketmaster** - معلومات عن الحفلات والمباريات وتذاكرها. | [الرابط](https://developer.ticketmaster.com/) |
+
+---
+
+### 💸 مالية وبنوك (Finance)
+| الوصف | الرابط |
+| :--- | :--- |
+| **Plaid** - اربط تطبيقك بالحسابات البنكية للمستخدمين (بأمان) عشان تشوف الرصيد والحركات. | [الرابط](https://plaid.com/) |
+| **Stripe** - أشهر بوابة دفع إلكتروني، تقبل الفيزا والماستركارد في موقعك بسهولة. | [الرابط](https://stripe.com/docs/api) |
+| **PayPal API** - نفس الحاجة بس مع باي بال، للدفع والاستلام. | [الرابط](https://developer.paypal.com/) |
+| **Alpha Vantage** - بيانات سوق الأسهم والاستثمار بأسعار مجانية ومدفوعة. | [الرابط](https://www.alphavantage.co/) |
+
+---
+
+### 🍔 أكل ومشرب (Food & Drink)
+| الوصف | الرابط |
+| :--- | :--- |
+| **TheMealDB** - وصفات أكل من كل أنحاء العالم مع الصور والمكونات وطريقة التحضير. | [الرابط](https://www.themealdb.com/api.php) |
+| **Spoonacular** - اقتراحات وجبات، معلومات غذائية، وقوائم تسوق ذكية. | [الرابط](https://spoonacular.com/food-api) |
+| **Open Food Facts** - قاعدة بيانات مفتوحة فيها معلومات عن المنتجات الغذائية (باركود، سعرات، مكونات). | [الرابط](https://world.openfoodfacts.org/data) |
+| **Zomato/Swiggy** - (في بعض المناطق) طلب طعام ومتابعة المطاعم القريبة. | [الرابط](https://developers.zomato.com/api) |
+
